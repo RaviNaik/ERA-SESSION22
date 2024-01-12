@@ -1,5 +1,5 @@
 # ERA-SESSION22 Training PyThia-160M from scratch on AWS Sagemaker
-🤗[**Space Link**]() 
+🤗[**Space Link**](https://huggingface.co/spaces/RaviNaik/ERA-SESSION22) 
 
 This is an implementation of Pythia-160M [LitGPT](https://github.com/Lightning-AI/lit-gpt) by LightningAI.  
 Dataset used to train: [RedPajama](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T).
